@@ -233,7 +233,7 @@ Here is the list of all the persons having a tango-cs sourceforge ticket assigne
 | andy\_gotz |  andygotz | Andy Gotz | andy.gotz@esrf.fr |
 | abeilleg | gwen-soleil  | Gwenaelle Abeille | gwenaelle.abeille@synchrotron-soleil.fr |
 | zreszela |  reszelaz | Zbigniew Reszela | zreszela@cells.es |
-| piccaf |   | Frédéric Picca | frederic-emmanuel.picca@synchrotron-soleil.fr |
+| piccaf | picca  | Frédéric Picca | frederic-emmanuel.picca@synchrotron-soleil.fr |
 | tiagocoutinho |  tiagocoutinho | Tiago Coutinho | tiago.coutinho@esrf.fr |
 | jlpons |   |  Jean-Luc Pons | pons@esrf.fr |
 | ollupac |  nobody | ollupaC De La Pradera? |  No longer in Tango community |
